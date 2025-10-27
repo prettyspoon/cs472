@@ -15,11 +15,11 @@ The website follows a monochrome (black and white) design theme and includes:
 ---
 
 ## Author
-**Name:** Hetvi Pethad, Ayush Kedari, Porter Provan
-**Group:** Group 22
-**GitHub Username:** https://github.com/<your-username>/cs472
-**Date Created:** October 27th, 2025  
-**Course:** LIS472 - Introduction to Web Development  
+**Name:** Hetvi Pethad, Ayush Kedari, Porter Provan    
+**Course:** LIS472 - Introduction to Web Development    
+**Group:** Group 22     
+**GitHub:** https://github.com/username/cs472    
+**Date Created:** October 27th, 2025     
 
 ---
 
@@ -76,7 +76,7 @@ Semantic and syntactically valid code
 
 ## How to Run Locally
 1. Clone this repository:
-    git clone https://github.com/<your-username>/cs472.git
+    git clone https://github.com/username/cs472.git
 2. Open the folder:
     cd cs472
 3. Open index.html in your browser
