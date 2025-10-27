@@ -1,4 +1,4 @@
-# 🖤 Minimal Black & White Website
+# Minimal Black & White Website
 
 ## Description
 This project is a seven-page responsive website created as part of a web development assignment.  
@@ -30,7 +30,8 @@ https://<your-username>.github.io/cs472/index.html
 ---
 
 ## Project Structure
-html:css:js project/
+```bash
+cs472/
 ├── pages/
 │   ├── index.html
 │   ├── page1.html
@@ -43,6 +44,7 @@ html:css:js project/
 ├── app.js
 ├── global.css
 └── README.md
+```
 
 ---
 
