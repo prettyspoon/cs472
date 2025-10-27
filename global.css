@@ -1,0 +1,15 @@
+body {
+  font-family: "Courier New", monospace;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  color: gray !important;
+}
+
+h1, p {
+  color: white;
+}
